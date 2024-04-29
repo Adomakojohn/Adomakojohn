@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adomakojohn
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me email: johnkwakuadomako6@gmail.com
 
