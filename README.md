@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adomakojohn" alt="adomakojohn" /></a> </p>
 
-- 🔭 I’m currently working on an AI mental Health Journal **MindfulSteps**
+- 🔭 I’m currently working on an AI mental Health Journal **Reflectly**
 
 - 🌱 I’m currently learning **web development & Machine Learning**
 
