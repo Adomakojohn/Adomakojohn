@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adomako Kwaku John</h1>
-<h3 align="center">A Software Developer - I build cool apps with Flutter </h3>
+<h3 align="center"> Software Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adomakojohn&label=Profile%20views&color=0e75b6&style=flat" alt="adomakojohn" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **johnkwakuadomako6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tgp9cYSdIbD_hQU0c7JmENq72Deuuyh-/view?usp=drive_link](https://drive.google.com/file/d/1Tgp9cYSdIbD_hQU0c7JmENq72Deuuyh-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Tgp9cYSdIbD_hQU0c7JmENq72Deuuyh-/view?usp=drive_link](https://drive.google.com/file/d/1E7yAxkDMXnPB-5j3DRbNJAbm5fd4wQda/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
