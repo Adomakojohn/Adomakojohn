@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **🌱 I’m currently learning web development & Machine Learning**
 
-- 👯 I'm looking to collaborate on ** open source projects**
+- 👯 I'm looking to collaborate on open source projects
 
 - 🤝 I'm looking for help with **full stack web development**
 
