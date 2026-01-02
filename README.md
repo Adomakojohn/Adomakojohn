@@ -16,11 +16,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Adomakojohn&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adomakojohn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Adomakojohn&icon=6&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adomakojohn&show_icons=true&locale=en" alt="Adomakojohn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adomakojohn&" alt="Adomakojohn" /></p>
 
