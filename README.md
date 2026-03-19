@@ -1,4 +1,4 @@
-# John Kwaku Adomako
+# I'm John
 
 **Software Developer** — Mobile & Web
 
@@ -8,7 +8,6 @@ On the web, I build with **React, Next.js, and Node.js** — from frontend inter
 
 I'm always shipping something new. Open to collaborations and building cool things together, feel free to reach out.
 
----
 
 ## What I Work With
 
@@ -33,8 +32,6 @@ React · Next.js · Node.js
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
----
----
 
 ## Get In Touch
 📧 johnkwakuadomako6@gmail.com
